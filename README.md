@@ -11,6 +11,7 @@ https://creativecommons.org/publicdomain/zero/1.0/
 4. Make webpage with by-year lookup
 5. Host on GH Pages ✅
    - yoinked from https://notes.billmill.org/programming/observable_framework/github_workflow_for_publishing_an_observable_framework.html
+   - View it here! https://adajone.github.io/proportional-representation/
 
 
 ## Readme from Obserable Framework Starter App
