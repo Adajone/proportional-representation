@@ -10,24 +10,25 @@ toc: false
 ```js
 const us = d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json");
 const votes = FileAttachment(
-  "data/electoral/electoral-college-votes-by-state.csv"
+  "data/dataverse_files/1976-2020-president.csv"
 ).csv();
 ```
 
 ```js
 const nation = topojson.feature(us, us.objects.nation);
 const states = topojson.feature(us, us.objects.states);
-display(votes);
+// display(votes)
 
-// const thisYearData = votes.filter(d => d.year === "2020")
-// display(thisYearData)
+// const thisYearData = votes.filter(d => d.year === "2020").reduce((max, row) => +row.candidatevotes > +max.candidatevotes ? row : max)
 
 const thisYearData = d3.rollup(
   votes.filter((d) => d.year === "2020"),
-  (v) => v.reduce((max, row) => (+row.votes > +max.votes ? row : max)),
+  (v) =>
+    v.reduce((max, row) =>
+      +row.candidatevotes > +max.candidatevotes ? row : max
+    ),
   (d) => d.state
 );
-display(thisYearData);
 ```
 
 ```js
@@ -46,13 +47,14 @@ const label = {
 };
 
 const votingStates = states.features.filter((d) =>
-  thisYearData.has(d.properties.name)
+  thisYearData.has(d.properties.name.toUpperCase())
 );
 
-display(votingStates);
+// display(thisYearData);
 ```
 
 ```js
+
 display(
   Plot.plot({
     projection: "albers-usa",
@@ -64,17 +66,16 @@ display(
         strokeWidth: 1,
         stroke: "white",
         fill: (d) => {
-          const state = thisYearData.get(d.properties.name);
-          return state ? color[state.party.toUpperCase()] : "thistle";
+          const state = thisYearData.get(d.properties.name.toUpperCase());
+          return state ? color[state.party_simplified] : "thistle";
         },
       }),
       Plot.text(votingStates, {
         x: (d) => d3.geoCentroid(d)[0],
         y: (d) => d3.geoCentroid(d)[1],
         text: (d) => {
-          const state = thisYearData.get(d.properties.name);
-          return state ?
-          state.state.substring(0, 2) + "\n" + state.votes : "";
+          const state = thisYearData.get(d.properties.name.toUpperCase());
+          return state ? state.state_po : "";
         },
         fill: "white",
         stroke: "black",

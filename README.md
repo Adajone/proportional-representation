@@ -1,5 +1,5 @@
 # proportional-representation
-1. Get data 🚧
+1. Get data ✅
    - Got from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX where it is posted under
 https://creativecommons.org/publicdomain/zero/1.0/
    - See src/data/dataverse_files/README.md for more info
@@ -14,6 +14,18 @@ https://creativecommons.org/publicdomain/zero/1.0/
    - yoinked from https://notes.billmill.org/programming/observable_framework/github_workflow_for_publishing_an_observable_framework.html
    - View it here! https://adajone.github.io/proportional-representation/
 
+
+## Things we need to do:
+- Make USA map ✅
+- Make red-blue map for last election ✅
+- Make input to change year
+- Make proportional representation map for last election
+- Make proportional representation map for all elections
+- Make main page pretty
+  - Title should have red-white-blue gradient
+- Make electoral college vote bar above
+- Handle states with split electoral votes
+- Add postal code to data set
 
 ## Readme from Obserable Framework Starter App
 #### Porportional Representation
