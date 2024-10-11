@@ -4,6 +4,7 @@
 https://creativecommons.org/publicdomain/zero/1.0/
    - See src/data/dataverse_files/README.md for more info
    - Need Electoral college votes by state by year
+      - https://www.270towin.com/state-electoral-vote-history/#google_vignette
 2. Find USA state graph creator (JS) ✅
    - Can be done with ObservableHQ Plot
    - https://observablehq.com/@observablehq/plot-us-map
