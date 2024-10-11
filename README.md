@@ -1,9 +1,16 @@
 # proportional-representation
-1. Get data
-2. Find USA state graph creator (JS)
+1. Get data 🚧
+   - Got from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX where it is posted under
+https://creativecommons.org/publicdomain/zero/1.0/
+   - See src/data/dataverse_files/README.md for more info
+   - Need Electoral college votes by state by year
+2. Find USA state graph creator (JS) ✅
+   - Can be done with ObservableHQ Plot
+   - https://observablehq.com/@observablehq/plot-us-map
 3. Make JS code for proportional representation
 4. Make webpage with by-year lookup
-5. Host on GH Pages
+5. Host on GH Pages ✅
+   - yoinked from https://notes.billmill.org/programming/observable_framework/github_workflow_for_publishing_an_observable_framework.html
 
 
 ## Readme from Obserable Framework Starter App
