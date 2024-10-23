@@ -10,7 +10,7 @@ toc: false
 ```js
 const us = d3.json("https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json");
 const votes = FileAttachment(
-  "data/electoral/electoral-college-votes-by-state.csv"
+  "data/electoral/state-electoral-votes-by-year-with-po.csv"
 ).csv();
 ```
 
@@ -74,7 +74,7 @@ display(
         text: (d) => {
           const state = thisYearData.get(d.properties.name);
           return state ?
-          state.state.substring(0, 2) + "\n" + state.votes : "";
+          state.state_po + "\n" + state.votes : "";
         },
         fill: "white",
         stroke: "black",

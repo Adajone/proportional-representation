@@ -1,0 +1,626 @@
+year,state,state_po,party,winner,votes
+1976,Alabama,AL,Democrat,Jimmy Carter,9
+1976,Alaska,AK,Republican,Gerald Ford,3
+1976,Arizona,AZ,Republican,Gerald Ford,6
+1976,Arkansas,AR,Democrat,Jimmy Carter,6
+1976,California,CA,Democrat,Jimmy Carter,45
+1976,Colorado,CO,Republican,Gerald Ford,7
+1976,Connecticut,CT,Republican,Gerald Ford,8
+1976,Delaware,DE,Democrat,Jimmy Carter,3
+1976,Florida,FL,Democrat,Jimmy Carter,17
+1976,Georgia,GA,Democrat,Jimmy Carter,12
+1976,Hawaii,HI,Democrat,Jimmy Carter,4
+1976,Idaho,ID,Republican,Gerald Ford,4
+1976,Illinois,IL,Republican,Gerald Ford,26
+1976,Indiana,IN,Republican,Gerald Ford,13
+1976,Iowa,IA,Democrat,Jimmy Carter,8
+1976,Kansas,KS,Republican,Gerald Ford,7
+1976,Kentucky,KY,Democrat,Jimmy Carter,9
+1976,Louisiana,LA,Democrat,Jimmy Carter,10
+1976,Maryland,MD,Democrat,Jimmy Carter,10
+1976,Massachusetts,MA,Democrat,Jimmy Carter,14
+1976,Michigan,MI,Republican,Gerald Ford,21
+1976,Minnesota,MN,Democrat,Jimmy Carter,10
+1976,Mississippi,MS,Democrat,Jimmy Carter,7
+1976,Missouri,MO,Democrat,Jimmy Carter,12
+1976,Montana,MT,Republican,Gerald Ford,4
+1976,Nevada,NV,Republican,Gerald Ford,3
+1976,New Hampshire,NH,Republican,Gerald Ford,4
+1976,New Jersey,NJ,Republican,Gerald Ford,17
+1976,New Mexico,NM,Democrat,Jimmy Carter,4
+1976,New York,NY,Democrat,Jimmy Carter,41
+1976,North Carolina,NC,Democrat,Jimmy Carter,13
+1976,North Dakota,ND,Republican,Gerald Ford,3
+1976,Ohio,OH,Republican,Gerald Ford,25
+1976,Oklahoma,OK,Republican,Gerald Ford,8
+1976,Oregon,OR,Republican,Gerald Ford,6
+1976,Pennsylvania,PA,Democrat,Jimmy Carter,27
+1976,Rhode Island,RI,Democrat,Jimmy Carter,4
+1976,South Carolina,SC,Democrat,Jimmy Carter,8
+1976,South Dakota,SD,Republican,Gerald Ford,4
+1976,Tennessee,TN,Democrat,Jimmy Carter,10
+1976,Texas,TX,Democrat,Jimmy Carter,26
+1976,Utah,UT,Republican,Gerald Ford,4
+1976,Vermont,VT,Republican,Gerald Ford,3
+1976,Virginia,VA,Republican,Gerald Ford,12
+1976,West Virginia,WV,Democrat,Jimmy Carter,6
+1976,Wisconsin,WI,Democrat,Jimmy Carter,11
+1976,Wyoming,WY,Republican,Gerald Ford,3
+1980,Alabama,AL,Republican,Ronald Reagan,9
+1980,Alaska,AK,Republican,Ronald Reagan,3
+1980,Arizona,AZ,Republican,Ronald Reagan,6
+1980,Arkansas,AR,Republican,Ronald Reagan,6
+1980,California,CA,Republican,Ronald Reagan,45
+1980,Colorado,CO,Republican,Ronald Reagan,7
+1980,Connecticut,CT,Republican,Ronald Reagan,8
+1980,Delaware,DE,Republican,Ronald Reagan,3
+1980,Florida,FL,Republican,Ronald Reagan,17
+1980,Georgia,GA,Democrat,Jimmy Carter,12
+1980,Hawaii,HI,Democrat,Jimmy Carter,4
+1980,Idaho,ID,Republican,Ronald Reagan,4
+1980,Illinois,IL,Republican,Ronald Reagan,26
+1980,Indiana,IN,Republican,Ronald Reagan,13
+1980,Iowa,IA,Republican,Ronald Reagan,8
+1980,Kansas,KS,Republican,Ronald Reagan,7
+1980,Kentucky,KY,Republican,Ronald Reagan,9
+1980,Louisiana,LA,Republican,Ronald Reagan,10
+1980,Maryland,MD,Republican,Ronald Reagan,10
+1980,Massachusetts,MA,Republican,Ronald Reagan,14
+1980,Michigan,MI,Republican,Ronald Reagan,21
+1980,Minnesota,MN,Democrat,Jimmy Carter,10
+1980,Mississippi,MS,Republican,Ronald Reagan,7
+1980,Missouri,MO,Republican,Ronald Reagan,12
+1980,Montana,MT,Republican,Ronald Reagan,4
+1980,Nevada,NV,Republican,Ronald Reagan,3
+1980,New Hampshire,NH,Republican,Ronald Reagan,4
+1980,New Jersey,NJ,Republican,Ronald Reagan,17
+1980,New Mexico,NM,Republican,Ronald Reagan,4
+1980,New York,NY,Republican,Ronald Reagan,41
+1980,North Carolina,NC,Republican,Ronald Reagan,13
+1980,North Dakota,ND,Republican,Ronald Reagan,3
+1980,Ohio,OH,Republican,Ronald Reagan,25
+1980,Oklahoma,OK,Republican,Ronald Reagan,8
+1980,Oregon,OR,Republican,Ronald Reagan,6
+1980,Pennsylvania,PA,Republican,Ronald Reagan,27
+1980,Rhode Island,RI,Republican,Ronald Reagan,4
+1980,South Carolina,SC,Republican,Ronald Reagan,8
+1980,South Dakota,SD,Republican,Ronald Reagan,4
+1980,Tennessee,TN,Republican,Ronald Reagan,10
+1980,Texas,TX,Republican,Ronald Reagan,26
+1980,Utah,UT,Republican,Ronald Reagan,4
+1980,Vermont,VT,Republican,Ronald Reagan,3
+1980,Virginia,VA,Republican,Ronald Reagan,12
+1980,Washington,WA,Republican,Ronald Reagan,9
+1980,West Virginia,WV,Democrat,Jimmy Carter,6
+1980,Wisconsin,WI,Republican,Ronald Reagan,11
+1980,Wyoming,WY,Republican,Ronald Reagan,3
+1984,Alabama,AL,Republican,Ronald Reagan,9
+1984,Alaska,AK,Republican,Ronald Reagan,3
+1984,Arizona,AZ,Republican,Ronald Reagan,7
+1984,Arkansas,AR,Republican,Ronald Reagan,6
+1984,California,CA,Republican,Ronald Reagan,47
+1984,Colorado,CO,Republican,Ronald Reagan,8
+1984,Connecticut,CT,Republican,Ronald Reagan,8
+1984,Delaware,DE,Republican,Ronald Reagan,3
+1984,Florida,FL,Republican,Ronald Reagan,21
+1984,Georgia,GA,Republican,Ronald Reagan,12
+1984,Hawaii,HI,Republican,Ronald Reagan,4
+1984,Idaho,ID,Republican,Ronald Reagan,4
+1984,Illinois,IL,Republican,Ronald Reagan,24
+1984,Indiana,IN,Republican,Ronald Reagan,12
+1984,Iowa,IA,Republican,Ronald Reagan,8
+1984,Kansas,KS,Republican,Ronald Reagan,7
+1984,Kentucky,KY,Republican,Ronald Reagan,9
+1984,Louisiana,LA,Republican,Ronald Reagan,10
+1984,Maryland,MD,Republican,Ronald Reagan,10
+1984,Massachusetts,MA,Republican,Ronald Reagan,13
+1984,Michigan,MI,Republican,Ronald Reagan,20
+1984,Minnesota,MN,Democrat,Walter Mondale,10
+1984,Mississippi,MS,Republican,Ronald Reagan,7
+1984,Missouri,MO,Republican,Ronald Reagan,11
+1984,Montana,MT,Republican,Ronald Reagan,4
+1984,Nevada,NV,Republican,Ronald Reagan,4
+1984,New Hampshire,NH,Republican,Ronald Reagan,4
+1984,New Jersey,NJ,Republican,Ronald Reagan,16
+1984,New Mexico,NM,Republican,Ronald Reagan,5
+1984,New York,NY,Republican,Ronald Reagan,36
+1984,North Carolina,NC,Republican,Ronald Reagan,13
+1984,North Dakota,ND,Republican,Ronald Reagan,3
+1984,Ohio,OH,Republican,Ronald Reagan,23
+1984,Oklahoma,OK,Republican,Ronald Reagan,8
+1984,Oregon,OR,Republican,Ronald Reagan,7
+1984,Pennsylvania,PA,Republican,Ronald Reagan,25
+1984,Rhode Island,RI,Republican,Ronald Reagan,4
+1984,South Carolina,SC,Republican,Ronald Reagan,8
+1984,South Dakota,SD,Republican,Ronald Reagan,3
+1984,Tennessee,TN,Republican,Ronald Reagan,11
+1984,Texas,TX,Republican,Ronald Reagan,29
+1984,Utah,UT,Republican,Ronald Reagan,5
+1984,Vermont,VT,Republican,Ronald Reagan,3
+1984,Virginia,VA,Republican,Ronald Reagan,12
+1984,Washington,WA,Republican,Ronald Reagan,10
+1984,West Virginia,WV,Republican,Ronald Reagan,6
+1984,Wisconsin,WI,Republican,Ronald Reagan,11
+1984,Wyoming,WY,Republican,Ronald Reagan,3
+1988,Alabama,AL,Republican,George H. W. Bush,9
+1988,Alaska,AK,Republican,George H. W. Bush,3
+1988,Arizona,AZ,Republican,George H. W. Bush,7
+1988,Arkansas,AR,Democrat,Michael Dukakis,6
+1988,California,CA,Republican,George H. W. Bush,47
+1988,Colorado,CO,Republican,George H. W. Bush,8
+1988,Connecticut,CT,Republican,George H. W. Bush,8
+1988,Delaware,DE,Republican,George H. W. Bush,3
+1988,Florida,FL,Republican,George H. W. Bush,21
+1988,Georgia,GA,Republican,George H. W. Bush,12
+1988,Hawaii,HI,Democrat,Michael Dukakis,4
+1988,Idaho,ID,Republican,George H. W. Bush,4
+1988,Illinois,IL,Republican,George H. W. Bush,24
+1988,Indiana,IN,Republican,George H. W. Bush,12
+1988,Iowa,IA,Democrat,Michael Dukakis,8
+1988,Kansas,KS,Republican,George H. W. Bush,7
+1988,Kentucky,KY,Republican,George H. W. Bush,9
+1988,Louisiana,LA,Republican,George H. W. Bush,10
+1988,Maryland,MD,Democrat,Michael Dukakis,10
+1988,Massachusetts,MA,Democrat,Michael Dukakis,13
+1988,Michigan,MI,Republican,George H. W. Bush,20
+1988,Minnesota,MN,Democrat,Michael Dukakis,10
+1988,Mississippi,MS,Republican,George H. W. Bush,7
+1988,Missouri,MO,Republican,George H. W. Bush,11
+1988,Montana,MT,Republican,George H. W. Bush,4
+1988,Nevada,NV,Republican,George H. W. Bush,4
+1988,New Hampshire,NH,Republican,George H. W. Bush,4
+1988,New Jersey,NJ,Republican,George H. W. Bush,16
+1988,New Mexico,NM,Republican,George H. W. Bush,5
+1988,New York,NY,Republican,George H. W. Bush,36
+1988,North Carolina,NC,Republican,George H. W. Bush,13
+1988,North Dakota,ND,Republican,George H. W. Bush,3
+1988,Ohio,OH,Republican,George H. W. Bush,23
+1988,Oklahoma,OK,Republican,George H. W. Bush,8
+1988,Oregon,OR,Republican,George H. W. Bush,7
+1988,Pennsylvania,PA,Republican,George H. W. Bush,25
+1988,Rhode Island,RI,Democrat,Michael Dukakis,4
+1988,South Carolina,SC,Republican,George H. W. Bush,8
+1988,South Dakota,SD,Republican,George H. W. Bush,3
+1988,Tennessee,TN,Republican,George H. W. Bush,11
+1988,Texas,TX,Republican,George H. W. Bush,29
+1988,Utah,UT,Republican,George H. W. Bush,5
+1988,Vermont,VT,Republican,George H. W. Bush,3
+1988,Virginia,VA,Republican,George H. W. Bush,12
+1988,Washington,WA,Republican,George H. W. Bush,10
+1988,Wisconsin,WI,Republican,George H. W. Bush,11
+1988,Wyoming,WY,Republican,George H. W. Bush,3
+1992,Alabama,AL,Republican,George H. W. Bush,9
+1992,Alaska,AK,Republican,George H. W. Bush,3
+1992,Arizona,AZ,Democrat,Bill Clinton,8
+1992,Arkansas,AR,Democrat,Bill Clinton,6
+1992,California,CA,Democrat,Bill Clinton,54
+1992,Colorado,CO,Democrat,Bill Clinton,8
+1992,Connecticut,CT,Democrat,Bill Clinton,8
+1992,Delaware,DE,Democrat,Bill Clinton,3
+1992,Florida,FL,Democrat,Bill Clinton,25
+1992,Georgia,GA,Democrat,Bill Clinton,13
+1992,Hawaii,HI,Democrat,Bill Clinton,4
+1992,Idaho,ID,Republican,George H. W. Bush,4
+1992,Illinois,IL,Democrat,Bill Clinton,22
+1992,Indiana,IN,Republican,George H. W. Bush,12
+1992,Iowa,IA,Democrat,Bill Clinton,7
+1992,Kansas,KS,Republican,George H. W. Bush,6
+1992,Kentucky,KY,Democrat,Bill Clinton,8
+1992,Louisiana,LA,Democrat,Bill Clinton,9
+1992,Maryland,MD,Democrat,Bill Clinton,10
+1992,Massachusetts,MA,Democrat,Bill Clinton,12
+1992,Michigan,MI,Democrat,Bill Clinton,18
+1992,Minnesota,MN,Democrat,Bill Clinton,10
+1992,Mississippi,MS,Republican,George H. W. Bush,7
+1992,Missouri,MO,Democrat,Bill Clinton,11
+1992,Montana,MT,Republican,George H. W. Bush,3
+1992,Nevada,NV,Democrat,Bill Clinton,4
+1992,New Hampshire,NH,Democrat,Bill Clinton,4
+1992,New Jersey,NJ,Democrat,Bill Clinton,15
+1992,New Mexico,NM,Democrat,Bill Clinton,5
+1992,New York,NY,Democrat,Bill Clinton,33
+1992,North Carolina,NC,Republican,George H. W. Bush,14
+1992,North Dakota,ND,Republican,George H. W. Bush,3
+1992,Ohio,OH,Democrat,Bill Clinton,21
+1992,Oklahoma,OK,Republican,George H. W. Bush,8
+1992,Oregon,OR,Democrat,Bill Clinton,7
+1992,Pennsylvania,PA,Democrat,Bill Clinton,23
+1992,Rhode Island,RI,Democrat,Bill Clinton,4
+1992,South Carolina,SC,Republican,George H. W. Bush,8
+1992,South Dakota,SD,Republican,George H. W. Bush,3
+1992,Tennessee,TN,Democrat,Bill Clinton,11
+1992,Texas,TX,Republican,George H. W. Bush,32
+1992,Utah,UT,Republican,George H. W. Bush,5
+1992,Vermont,VT,Democrat,Bill Clinton,3
+1992,Virginia,VA,Republican,George H. W. Bush,13
+1992,Washington,WA,Democrat,Bill Clinton,11
+1992,West Virginia,WV,Democrat,Bill Clinton,5
+1992,Wisconsin,WI,Democrat,Bill Clinton,11
+1992,Wyoming,WY,Republican,George H. W. Bush,3
+1996,Alabama,AL,Republican,Bob Dole,9
+1996,Alaska,AK,Republican,Bob Dole,3
+1996,Arizona,AZ,Democrat,Bill Clinton,8
+1996,Arkansas,AR,Democrat,Bill Clinton,6
+1996,California,CA,Democrat,Bill Clinton,54
+1996,Colorado,CO,Republican,Bob Dole,8
+1996,Connecticut,CT,Democrat,Bill Clinton,8
+1996,Delaware,DE,Democrat,Bill Clinton,3
+1996,Florida,FL,Democrat,Bill Clinton,25
+1996,Georgia,GA,Democrat,Bill Clinton,13
+1996,Hawaii,HI,Democrat,Bill Clinton,4
+1996,Idaho,ID,Republican,Bob Dole,4
+1996,Illinois,IL,Democrat,Bill Clinton,22
+1996,Indiana,IN,Republican,Bob Dole,12
+1996,Iowa,IA,Democrat,Bill Clinton,7
+1996,Kansas,KS,Republican,Bob Dole,6
+1996,Kentucky,KY,Republican,Bob Dole,8
+1996,Louisiana,LA,Democrat,Bill Clinton,9
+1996,Maryland,MD,Democrat,Bill Clinton,10
+1996,Massachusetts,MA,Democrat,Bill Clinton,12
+1996,Michigan,MI,Democrat,Bill Clinton,18
+1996,Minnesota,MN,Democrat,Bill Clinton,10
+1996,Mississippi,MS,Republican,Bob Dole,7
+1996,Missouri,MO,Democrat,Bill Clinton,11
+1996,Montana,MT,Republican,Bob Dole,3
+1996,Nevada,NV,Democrat,Bill Clinton,4
+1996,New Hampshire,NH,Democrat,Bill Clinton,4
+1996,New Jersey,NJ,Democrat,Bill Clinton,15
+1996,New Mexico,NM,Democrat,Bill Clinton,5
+1996,New York,NY,Democrat,Bill Clinton,33
+1996,North Carolina,NC,Republican,Bob Dole,14
+1996,North Dakota,ND,Republican,Bob Dole,3
+1996,Ohio,OH,Democrat,Bill Clinton,21
+1996,Oklahoma,OK,Republican,Bob Dole,8
+1996,Oregon,OR,Democrat,Bill Clinton,7
+1996,Pennsylvania,PA,Democrat,Bill Clinton,23
+1996,Rhode Island,RI,Democrat,Bill Clinton,4
+1996,South Carolina,SC,Republican,Bob Dole,8
+1996,South Dakota,SD,Republican,Bob Dole,3
+1996,Tennessee,TN,Democrat,Bill Clinton,11
+1996,Texas,TX,Republican,Bob Dole,32
+1996,Utah,UT,Republican,Bob Dole,5
+1996,Vermont,VT,Democrat,Bill Clinton,3
+1996,Virginia,VA,Republican,Bob Dole,13
+1996,Washington,WA,Democrat,Bill Clinton,11
+1996,West Virginia,WV,Democrat,Bill Clinton,5
+1996,Wisconsin,WI,Democrat,Bill Clinton,11
+1996,Wyoming,WY,Republican,Bob Dole,3
+2000,Alabama,AL,Republican,George W. Bush,9
+2000,Alaska,AK,Republican,George W. Bush,3
+2000,Arizona,AZ,Republican,George W. Bush,8
+2000,Arkansas,AR,Republican,George W. Bush,6
+2000,California,CA,Democrat,Al Gore,54
+2000,Colorado,CO,Republican,George W. Bush,8
+2000,Connecticut,CT,Democrat,Al Gore,8
+2000,Delaware,DE,Democrat,Al Gore,3
+2000,Florida,FL,Republican,George W. Bush,25
+2000,Georgia,GA,Republican,George W. Bush,13
+2000,Hawaii,HI,Democrat,Al Gore,4
+2000,Idaho,ID,Republican,George W. Bush,4
+2000,Illinois,IL,Democrat,Al Gore,22
+2000,Indiana,IN,Republican,George W. Bush,12
+2000,Iowa,IA,Democrat,Al Gore,7
+2000,Kansas,KS,Republican,George W. Bush,6
+2000,Kentucky,KY,Republican,George W. Bush,8
+2000,Louisiana,LA,Republican,George W. Bush,9
+2000,Maryland,MD,Democrat,Al Gore,10
+2000,Massachusetts,MA,Democrat,Al Gore,12
+2000,Michigan,MI,Democrat,Al Gore,18
+2000,Minnesota,MN,Democrat,Al Gore,10
+2000,Mississippi,MS,Republican,George W. Bush,7
+2000,Missouri,MO,Republican,George W. Bush,11
+2000,Montana,MT,Republican,George W. Bush,3
+2000,Nevada,NV,Republican,George W. Bush,4
+2000,New Hampshire,NH,Republican,George W. Bush,4
+2000,New Jersey,NJ,Democrat,Al Gore,15
+2000,New Mexico,NM,Democrat,Al Gore,5
+2000,New York,NY,Democrat,Al Gore,33
+2000,North Carolina,NC,Republican,George W. Bush,14
+2000,North Dakota,ND,Republican,George W. Bush,3
+2000,Ohio,OH,Republican,George W. Bush,21
+2000,Oklahoma,OK,Republican,George W. Bush,8
+2000,Oregon,OR,Democrat,Al Gore,7
+2000,Pennsylvania,PA,Democrat,Al Gore,23
+2000,Rhode Island,RI,Democrat,Al Gore,4
+2000,South Carolina,SC,Republican,George W. Bush,8
+2000,South Dakota,SD,Republican,George W. Bush,3
+2000,Tennessee,TN,Republican,George W. Bush,11
+2000,Texas,TX,Republican,George W. Bush,32
+2000,Utah,UT,Republican,George W. Bush,5
+2000,Vermont,VT,Democrat,Al Gore,3
+2000,Virginia,VA,Republican,George W. Bush,13
+2000,Washington,WA,Democrat,Al Gore,11
+2000,West Virginia,WV,Republican,George W. Bush,5
+2000,Wisconsin,WI,Democrat,Al Gore,11
+2000,Wyoming,WY,Republican,George W. Bush,3
+2004,Alabama,AL,Republican,George W. Bush,9
+2004,Alaska,AK,Republican,George W. Bush,3
+2004,Arizona,AZ,Republican,George W. Bush,10
+2004,Arkansas,AR,Republican,George W. Bush,6
+2004,California,CA,Democrat,John Kerry,55
+2004,Colorado,CO,Republican,George W. Bush,9
+2004,Connecticut,CT,Democrat,John Kerry,7
+2004,Delaware,DE,Democrat,John Kerry,3
+2004,Florida,FL,Republican,George W. Bush,27
+2004,Georgia,GA,Republican,George W. Bush,15
+2004,Hawaii,HI,Democrat,John Kerry,4
+2004,Idaho,ID,Republican,George W. Bush,4
+2004,Illinois,IL,Democrat,John Kerry,21
+2004,Indiana,IN,Republican,George W. Bush,11
+2004,Iowa,IA,Republican,George W. Bush,7
+2004,Kansas,KS,Republican,George W. Bush,6
+2004,Kentucky,KY,Republican,George W. Bush,8
+2004,Louisiana,LA,Republican,George W. Bush,9
+2004,Maryland,MD,Democrat,John Kerry,10
+2004,Massachusetts,MA,Democrat,John Kerry,12
+2004,Michigan,MI,Democrat,John Kerry,17
+2004,Mississippi,MS,Republican,George W. Bush,6
+2004,Missouri,MO,Republican,George W. Bush,11
+2004,Montana,MT,Republican,George W. Bush,3
+2004,Nevada,NV,Republican,George W. Bush,5
+2004,New Hampshire,NH,Democrat,John Kerry,4
+2004,New Jersey,NJ,Democrat,John Kerry,15
+2004,New Mexico,NM,Republican,George W. Bush,5
+2004,New York,NY,Democrat,John Kerry,31
+2004,North Carolina,NC,Republican,George W. Bush,15
+2004,North Dakota,ND,Republican,George W. Bush,3
+2004,Ohio,OH,Republican,George W. Bush,20
+2004,Oklahoma,OK,Republican,George W. Bush,7
+2004,Oregon,OR,Democrat,John Kerry,7
+2004,Pennsylvania,PA,Democrat,John Kerry,21
+2004,Rhode Island,RI,Democrat,John Kerry,4
+2004,South Carolina,SC,Republican,George W. Bush,8
+2004,South Dakota,SD,Republican,George W. Bush,3
+2004,Tennessee,TN,Republican,George W. Bush,11
+2004,Texas,TX,Republican,George W. Bush,34
+2004,Utah,UT,Republican,George W. Bush,5
+2004,Vermont,VT,Democrat,John Kerry,3
+2004,Virginia,VA,Republican,George W. Bush,13
+2004,Washington,WA,Democrat,John Kerry,11
+2004,West Virginia,WV,Republican,George W. Bush,5
+2004,Wisconsin,WI,Democrat,John Kerry,10
+2004,Wyoming,WY,Republican,George W. Bush,3
+2008,Alabama,AL,Republican,John McCain,9
+2008,Alaska,AK,Republican,John McCain,3
+2008,Arizona,AZ,Republican,John McCain,10
+2008,Arkansas,AR,Republican,John McCain,6
+2008,California,CA,Democrat,Barack Obama,55
+2008,Colorado,CO,Democrat,Barack Obama,9
+2008,Connecticut,CT,Democrat,Barack Obama,7
+2008,Delaware,DE,Democrat,Barack Obama,3
+2008,Florida,FL,Democrat,Barack Obama,27
+2008,Georgia,GA,Republican,John McCain,15
+2008,Hawaii,HI,Democrat,Barack Obama,4
+2008,Idaho,ID,Republican,John McCain,4
+2008,Illinois,IL,Democrat,Barack Obama,21
+2008,Indiana,IN,Democrat,Barack Obama,11
+2008,Iowa,IA,Democrat,Barack Obama,7
+2008,Kansas,KS,Republican,John McCain,6
+2008,Kentucky,KY,Republican,John McCain,8
+2008,Louisiana,LA,Republican,John McCain,9
+2008,Maryland,MD,Democrat,Barack Obama,10
+2008,Massachusetts,MA,Democrat,Barack Obama,12
+2008,Michigan,MI,Democrat,Barack Obama,17
+2008,Minnesota,MN,Democrat,Barack Obama,10
+2008,Mississippi,MS,Republican,John McCain,6
+2008,Missouri,MO,Republican,John McCain,11
+2008,Montana,MT,Republican,John McCain,3
+2008,Nevada,NV,Democrat,Barack Obama,5
+2008,New Hampshire,NH,Democrat,Barack Obama,4
+2008,New Jersey,NJ,Democrat,Barack Obama,15
+2008,New Mexico,NM,Democrat,Barack Obama,5
+2008,New York,NY,Democrat,Barack Obama,31
+2008,North Carolina,NC,Democrat,Barack Obama,15
+2008,North Dakota,ND,Republican,John McCain,3
+2008,Ohio,OH,Democrat,Barack Obama,20
+2008,Oklahoma,OK,Republican,John McCain,7
+2008,Oregon,OR,Democrat,Barack Obama,7
+2008,Pennsylvania,PA,Democrat,Barack Obama,21
+2008,Rhode Island,RI,Democrat,Barack Obama,4
+2008,South Carolina,SC,Republican,John McCain,8
+2008,South Dakota,SD,Republican,John McCain,3
+2008,Tennessee,TN,Republican,John McCain,11
+2008,Texas,TX,Republican,John McCain,34
+2008,Utah,UT,Republican,John McCain,5
+2008,Vermont,VT,Democrat,Barack Obama,3
+2008,Virginia,VA,Democrat,Barack Obama,13
+2008,Washington,WA,Democrat,Barack Obama,11
+2008,West Virginia,WV,Republican,John McCain,5
+2008,Wisconsin,WI,Democrat,Barack Obama,10
+2008,Wyoming,WY,Republican,John McCain,3
+2012,Alabama,AL,Republican,Mitt Romney,9
+2012,Alaska,AK,Republican,Mitt Romney,3
+2012,Arizona,AZ,Republican,Mitt Romney,11
+2012,Arkansas,AR,Republican,Mitt Romney,6
+2012,California,CA,Democrat,Barack Obama,55
+2012,Colorado,CO,Democrat,Barack Obama,9
+2012,Connecticut,CT,Democrat,Barack Obama,7
+2012,Delaware,DE,Democrat,Barack Obama,3
+2012,Florida,FL,Democrat,Barack Obama,29
+2012,Georgia,GA,Republican,Mitt Romney,16
+2012,Hawaii,HI,Democrat,Barack Obama,4
+2012,Idaho,ID,Republican,Mitt Romney,4
+2012,Illinois,IL,Democrat,Barack Obama,20
+2012,Indiana,IN,Republican,Mitt Romney,11
+2012,Iowa,IA,Democrat,Barack Obama,6
+2012,Kansas,KS,Republican,Mitt Romney,6
+2012,Kentucky,KY,Republican,Mitt Romney,8
+2012,Louisiana,LA,Republican,Mitt Romney,8
+2012,Maryland,MD,Democrat,Barack Obama,10
+2012,Massachusetts,MA,Democrat,Barack Obama,11
+2012,Michigan,MI,Democrat,Barack Obama,16
+2012,Minnesota,MN,Democrat,Barack Obama,10
+2012,Mississippi,MS,Republican,Mitt Romney,6
+2012,Missouri,MO,Republican,Mitt Romney,10
+2012,Montana,MT,Republican,Mitt Romney,3
+2012,Nevada,NV,Democrat,Barack Obama,6
+2012,New Hampshire,NH,Democrat,Barack Obama,4
+2012,New Jersey,NJ,Democrat,Barack Obama,14
+2012,New Mexico,NM,Democrat,Barack Obama,5
+2012,New York,NY,Democrat,Barack Obama,29
+2012,North Carolina,NC,Republican,Mitt Romney,15
+2012,North Dakota,ND,Republican,Mitt Romney,3
+2012,Ohio,OH,Democrat,Barack Obama,18
+2012,Oklahoma,OK,Republican,Mitt Romney,7
+2012,Oregon,OR,Democrat,Barack Obama,7
+2012,Pennsylvania,PA,Democrat,Barack Obama,20
+2012,Rhode Island,RI,Democrat,Barack Obama,4
+2012,South Carolina,SC,Republican,Mitt Romney,9
+2012,South Dakota,SD,Republican,Mitt Romney,3
+2012,Tennessee,TN,Republican,Mitt Romney,11
+2012,Texas,TX,Republican,Mitt Romney,38
+2012,Utah,UT,Republican,Mitt Romney,6
+2012,Vermont,VT,Democrat,Barack Obama,3
+2012,Virginia,VA,Democrat,Barack Obama,13
+2012,Washington,WA,Democrat,Barack Obama,12
+2012,West Virginia,WV,Republican,Mitt Romney,5
+2012,Wisconsin,WI,Democrat,Barack Obama,10
+2012,Wyoming,WY,Republican,Mitt Romney,3
+2016,Alabama,AL,Republican,Donald Trump,9
+2016,Alaska,AK,Republican,Donald Trump,3
+2016,Arizona,AZ,Republican,Donald Trump,11
+2016,Arkansas,AR,Republican,Donald Trump,6
+2016,California,CA,Democrat,Hillary Clinton,55
+2016,Colorado,CO,Democrat,Hillary Clinton,9
+2016,Connecticut,CT,Democrat,Hillary Clinton,7
+2016,Delaware,DE,Democrat,Hillary Clinton,3
+2016,Florida,FL,Republican,Donald Trump,29
+2016,Georgia,GA,Republican,Donald Trump,16
+2016,Idaho,ID,Republican,Donald Trump,4
+2016,Illinois,IL,Democrat,Hillary Clinton,20
+2016,Indiana,IN,Republican,Donald Trump,11
+2016,Iowa,IA,Republican,Donald Trump,6
+2016,Kansas,KS,Republican,Donald Trump,6
+2016,Kentucky,KY,Republican,Donald Trump,8
+2016,Louisiana,LA,Republican,Donald Trump,8
+2016,Maryland,MD,Democrat,Hillary Clinton,10
+2016,Massachusetts,MA,Democrat,Hillary Clinton,11
+2016,Michigan,MI,Republican,Donald Trump,16
+2016,Minnesota,MN,Democrat,Hillary Clinton,10
+2016,Mississippi,MS,Republican,Donald Trump,6
+2016,Missouri,MO,Republican,Donald Trump,10
+2016,Montana,MT,Republican,Donald Trump,3
+2016,Nevada,NV,Democrat,Hillary Clinton,6
+2016,New Hampshire,NH,Democrat,Hillary Clinton,4
+2016,New Jersey,NJ,Democrat,Hillary Clinton,14
+2016,New Mexico,NM,Democrat,Hillary Clinton,5
+2016,New York,NY,Democrat,Hillary Clinton,29
+2016,North Carolina,NC,Republican,Donald Trump,15
+2016,North Dakota,ND,Republican,Donald Trump,3
+2016,Ohio,OH,Republican,Donald Trump,18
+2016,Oklahoma,OK,Republican,Donald Trump,7
+2016,Oregon,OR,Democrat,Hillary Clinton,7
+2016,Pennsylvania,PA,Republican,Donald Trump,20
+2016,Rhode Island,RI,Democrat,Hillary Clinton,4
+2016,South Carolina,SC,Republican,Donald Trump,9
+2016,South Dakota,SD,Republican,Donald Trump,3
+2016,Tennessee,TN,Republican,Donald Trump,11
+2016,Utah,UT,Republican,Donald Trump,6
+2016,Vermont,VT,Democrat,Hillary Clinton,3
+2016,Virginia,VA,Democrat,Hillary Clinton,13
+2016,West Virginia,WV,Republican,Donald Trump,5
+2016,Wisconsin,WI,Republican,Donald Trump,10
+2016,Wyoming,WY,Republican,Donald Trump,3
+2020,Alabama,AL,Republican,Donald Trump,9
+2020,Alaska,AK,Republican,Donald Trump,3
+2020,Arizona,AZ,Democrat,Joe Biden,11
+2020,Arkansas,AR,Republican,Donald Trump,6
+2020,California,CA,Democrat,Joe Biden,55
+2020,Colorado,CO,Democrat,Joe Biden,9
+2020,Connecticut,CT,Democrat,Joe Biden,7
+2020,Delaware,DE,Democrat,Joe Biden,3
+2020,Florida,FL,Republican,Donald Trump,29
+2020,Georgia,GA,Democrat,Joe Biden,16
+2020,Hawaii,HI,Democrat,Joe Biden,4
+2020,Idaho,ID,Republican,Donald Trump,4
+2020,Illinois,IL,Democrat,Joe Biden,20
+2020,Indiana,IN,Republican,Donald Trump,11
+2020,Iowa,IA,Republican,Donald Trump,6
+2020,Kansas,KS,Republican,Donald Trump,6
+2020,Kentucky,KY,Republican,Donald Trump,8
+2020,Louisiana,LA,Republican,Donald Trump,8
+2020,Maryland,MD,Democrat,Joe Biden,10
+2020,Massachusetts,MA,Democrat,Joe Biden,11
+2020,Michigan,MI,Democrat,Joe Biden,16
+2020,Minnesota,MN,Democrat,Joe Biden,10
+2020,Mississippi,MS,Republican,Donald Trump,6
+2020,Missouri,MO,Republican,Donald Trump,10
+2020,Montana,MT,Republican,Donald Trump,3
+2020,Nevada,NV,Democrat,Joe Biden,6
+2020,New Hampshire,NH,Democrat,Joe Biden,4
+2020,New Jersey,NJ,Democrat,Joe Biden,14
+2020,New Mexico,NM,Democrat,Joe Biden,5
+2020,New York,NY,Democrat,Joe Biden,29
+2020,North Carolina,NC,Republican,Donald Trump,15
+2020,North Dakota,ND,Republican,Donald Trump,3
+2020,Ohio,OH,Republican,Donald Trump,18
+2020,Oklahoma,OK,Republican,Donald Trump,7
+2020,Oregon,OR,Democrat,Joe Biden,7
+2020,Pennsylvania,PA,Democrat,Joe Biden,20
+2020,Rhode Island,RI,Democrat,Joe Biden,4
+2020,South Carolina,SC,Republican,Donald Trump,9
+2020,South Dakota,SD,Republican,Donald Trump,3
+2020,Tennessee,TN,Republican,Donald Trump,11
+2020,Texas,TX,Republican,Donald Trump,38
+2020,Utah,UT,Republican,Donald Trump,6
+2020,Vermont,VT,Democrat,Joe Biden,3
+2020,Virginia,VA,Democrat,Joe Biden,13
+2020,Washington,WA,Democrat,Joe Biden,12
+2020,West Virginia,WV,Republican,Donald Trump,5
+2020,Wisconsin,WI,Democrat,Joe Biden,10
+2020,Wyoming,WY,Republican,Donald Trump,3
+1976,District of Columbia,DC,Democrat,Jimmy Carter,3
+1980,District of Columbia,DC,Democrat,Jimmy Carter,3
+1984,District of Columbia,DC,Democrat,Walter Mondale,3
+1988,District of Columbia,DC,Democrat,Michael Dukakis,3
+1992,District of Columbia,DC,Democrat,Bill Clinton,3
+1996,District of Columbia,DC,Democrat,Bill Clinton,3
+2004,District of Columbia,DC,Democrat,John Kerry,3
+2008,District of Columbia,DC,Democrat,Barack Obama,3
+2012,District of Columbia,DC,Democrat,Barack Obama,3
+2016,District of Columbia,DC,Democrat,Hillary Clinton,3
+2020,District of Columbia,DC,Democrat,Joe Biden,3
+1976,Maine,ME,Democrat,Jimmy Carter,4
+1980,Maine,ME,Republican,Ronald Reagan,4
+1984,Maine,ME,Republican,Ronald Reagan,4
+1988,Maine,ME,Republican,George H. W. Bush,4
+1992,Maine,ME,Democrat,Bill Clinton,4
+1996,Maine,ME,Democrat,Bill Clinton,4
+2000,Maine,ME,Democrat,Al Gore,4
+2004,Maine,ME,Democrat,John Kerry,4
+2008,Maine,ME,Democrat,Barack Obama,4
+2012,Maine,ME,Democrat,Barack Obama,4
+2016,Maine,ME,Democrat,Hillary Clinton,3
+2016,Maine,ME,Republican,Donald Trump,1
+2020,Maine,ME,Democrat,Joe Biden,3
+2020,Maine,ME,Republican,Donald Trump,1
+1976,Nebraska,NE,Republican,Gerald Ford,5
+1980,Nebraska,NE,Republican,Ronald Reagan,5
+1984,Nebraska,NE,Republican,Ronald Reagan,5
+1988,Nebraska,NE,Republican,George H. W. Bush,5
+1992,Nebraska,NE,Republican,George H. W. Bush,5
+1996,Nebraska,NE,Republican,Bob Dole,5
+2000,Nebraska,NE,Republican,George W. Bush,5
+2004,Nebraska,NE,Republican,George W. Bush,5
+2008,Nebraska,NE,Republican,John McCain,4
+2008,Nebraska,NE,Democrat,Barack Obama,1
+2012,Nebraska,NE,Republican,Mitt Romney,5
+2016,Nebraska,NE,Republican,Donald Trump,5
+2020,Nebraska,NE,Republican,Donald Trump,4
+2020,Nebraska,NE,Democrat,Joe Biden,1
+1976,Washington,WA,Other,Ronald Reagan,1
+1976,Washington,WA,Republican,Gerald Ford,8
+1988,West Virginia,WV,Other,Lloyd Bentsen,1
+1988,West Virginia,WV,Democrat,Michael Dukakis,4
+2000,District of Columbia,DC,Other,Abstained,1
+2000,District of Columbia,DC,Democrat,Al Gore,2
+2004,Minnesota,MN,Other,John Edwards,1
+2004,Minnesota,MN,Democrat,John Kerry,9
+2016,Hawaii,HI,Other,Bernie Sanders,1
+2016,Hawaii,HI,Democrat,Hillary Clinton,3
+2016,Texas,TX,Other,Ron Paul,1
+2016,Texas,TX,Other,John Kasich,1
+2016,Texas,TX,Republican,Donald Trump,36
+2016,Washington,WA,Other,Colin Powell,3
+2016,Washington,WA,Other,Faith Spotted Eagle,1
+2016,Washington,WA,Democrat,Hillary Clinton,8
